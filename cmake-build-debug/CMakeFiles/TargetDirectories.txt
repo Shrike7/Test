@@ -1,0 +1,3 @@
+/home/shrike/programming/git/clearn/cmake-build-debug/CMakeFiles/clearn.dir
+/home/shrike/programming/git/clearn/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/shrike/programming/git/clearn/cmake-build-debug/CMakeFiles/rebuild_cache.dir
